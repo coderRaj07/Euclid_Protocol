@@ -1,5 +1,3 @@
----
-
 ### **Comparison between Solidity and CosmWasm**
 
 | **Concept**                | **Solidity**                                                                                         | **CosmWasm**                                                                                   |
